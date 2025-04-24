@@ -11,29 +11,29 @@ const chalk = require('chalk')
 
 
 
-global.BOT_TOKEN = "7708116226:AAEbh25RihL_NW6QXDY5HwEvncn3uU-rllo" // create bot here https://t.me/Botfather and get bot token
+global.BOT_TOKEN = "8195253018:AAG-QSdKW8rzerJb87vUeriiJivhV4hAo08" // create bot here https://t.me/Botfather and get bot token
 global.BOT_NAME = "XeonBug-V18" //your bot name
 global.OWNER_NAME = "@DGXeon13 @DGXeon13" //your name with sign @
 global.OWNER = ["https://t.me/DGXeon13", "https://t.me/DGXeon13"] // Make sure the username is correct so that the special owner features can be used.
-global.DEVELOPER = ["8175327171"] //developer telegram id to operate addprem delprem and listprem
+global.DEVELOPER = ["5455539691"] //developer telegram id to operate addprem delprem and listprem
 global.pp = 'https://files.catbox.moe/56lnrp.jpg' //your bot pp
 global.pp2 = 'https://files.catbox.moe/56lnrp.jpg' //your bot pp
 
 //contact details
-global.owner = "923444844060"
-global.ownernomer = "923444844060"
+global.owner = "2348078112891"
+global.ownernomer = "2348078112891"
 global.ownername = "Qasim Ali"
 global.ytname = "YT: GlobalTechInfo"
 global.socialm = "GitHub: GlobalTechInfo"
 global.location = "Pakistan, Karachi, Karachi"
 
-global.ownernumber = '923444844060'  //creator number
+global.ownernumber = '2348078112891'  //creator number
 global.ownername = 'Qasim Ali' //owner name
 global.botname = 'XeonBug-V18' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'GlobalTech\n\nContact: +923444844060'
+global.author = 'GlobalTech\n\nContact: +2348078112891'
 
 //console view/theme
 global.themeemoji = '🪀'
@@ -43,7 +43,7 @@ global.wm = "Global Bot"
 global.link = 'https://whatsapp.com/channel/0029VadCyFZGufJ2YW4bG42x'
 
 //custom prefix
-global.prefa = ['','!','.','#','&']
+global.prefa = ['/']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
@@ -59,7 +59,7 @@ global.autoswview = false //auto view status/story
 //v2 is link + image menu,
 //v3 is video menu,
 //v4 is call end menu
-global.typemenu = 'v2'
+global.typemenu = 'v3'
 
 //text bug
 global.xbugtex = {
