@@ -202,7 +202,7 @@ const xeonmatch38 = m.sender;
 
 const allowedUsers1 = [
   '2348078112891@s.whatsapp.net',
-  '22585677429@s.whatsapp.net',
+  '2349139971857@s.whatsapp.net',
   '393518587521@s.whatsapp.net',
   '528140152052@s.whatsapp.net',
   '5535998353963@s.whatsapp.net',
